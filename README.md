@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AdrianRacki
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning TensorFlow.
 
 <!---
 AdrianRacki/AdrianRacki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
